@@ -1,4 +1,4 @@
-Je m'appelle Théo 👋 u
+Je m'appelle Théo 👋 
 
 Un passionné de développement, et je suis ravi de vous présenter mon profil GitHub.
 
