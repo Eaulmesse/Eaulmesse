@@ -1,4 +1,6 @@
-Je m'appelle Théo, un passionné de développement, et je suis ravi de vous présenter mon profil GitHub.
+Je m'appelle Théo 👋 u
+
+Un passionné de développement, et je suis ravi de vous présenter mon profil GitHub.
 
 Depuis 2021, j'ai plongé tête la première dans l'univers de GitHub. J'y partage mes projets, mes contributions et mes expériences dans le domaine du code. C'est un peu comme mon QG virtuel, où je peux exprimer ma créativité et collaborer avec d'autres développeurs talentueux.
 
