@@ -1,12 +1,41 @@
-Je m'appelle Théo 👋 
+### 🚀 Développeur Backend | Spécialiste NestJS & Automation IA
 
-Un passionné de développement, et je suis ravi de vous présenter mon profil GitHub.
+j'accompagne les entreprises dans la création de solutions backend performantes et l'intégration de l'IA au cœur de leurs processus métiers.
 
-Depuis 2021, j'ai plongé tête la première dans l'univers de GitHub. J'y partage mes projets, mes contributions et mes expériences dans le domaine du code. C'est un peu comme mon QG virtuel, où je peux exprimer ma créativité et collaborer avec d'autres développeurs talentueux.
+---
 
-J'ai créé plusieurs dépôts pour mes projets personnels, allant des petites expériences aux projets plus sérieux. 
+## 🛠 Mon Expertise Tech
 
-Si vous êtes curieux(se) et que vous souhaitez en savoir plus sur mes projets, n'hésitez pas à explorer mon profil GitHub. Vous y trouverez une diversité de codes, des idées et peut-être même des opportunités de collaboration.
+- **Backend :** NestJS, Node.js, TypeScript (Expertise principale)
+- **Legacy & Migration :** PHP / Symfony (Background solide en refonte d'ERP)
+- **Data :** PostgreSQL, MySQL, Prisma, TypeORM
+- **Automation & IA :** n8n, Langchain, Intégration de LLMs, Webhooks temps-réel
+- **DevOps :** Docker, CI/CD (GitHub Actions)
 
-Merci d'avoir pris le temps de me lire. Rejoignez-moi sur GitHub !
+---
+
+## 🌟 Projets Phares
+
+### [📅 Moteur de réservation](https://github.com/Eaulmesse/robustReservationEngine.ts)
+**Moteur de réservation haute performance.** *Challenge :* Gérer les conflits de réservation et la complexité des fuseaux horaires mondiaux.
+*Stack :* NestJS, PostgreSQL, Swagger.
+
+
+
+---
+
+## 📈 Mes Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eaulmesse&show_icons=true&theme=radical" alt="Stats de Théo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaulmesse&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+- **Malt :** [Mon profil Freelance](https://www.malt.fr/profile/theoguerin)
+- **LinkedIn :** [Théo Guerin](https://www.linkedin.com/in/guerin-theo/)
+- **Email :** [theo.guerin01120@gmail.com](theo.guerin01120@gmail.com)
 
