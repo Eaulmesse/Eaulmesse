@@ -1,41 +1,38 @@
-### 🚀 Développeur Backend | Spécialiste NestJS & Automation IA
+### French Backend Developer | NestJS & AI Automation Specialist
 
-j'accompagne les entreprises dans la création de solutions backend performantes et l'intégration de l'IA au cœur de leurs processus métiers.
-
----
-
-## 🛠 Mon Expertise Tech
-
-- **Backend :** NestJS, Node.js, TypeScript (Expertise principale)
-- **Legacy & Migration :** PHP / Symfony (Background solide en refonte d'ERP)
-- **Data :** PostgreSQL, MySQL, Prisma, TypeORM
-- **Automation & IA :** n8n, Langchain, Intégration de LLMs, Webhooks temps-réel
-- **DevOps :** Docker, CI/CD (GitHub Actions)
+I help companies build high-performance backend solutions and integrate AI at the heart of their business processes.
 
 ---
 
-## 🌟 Projets Phares
+## Tech Expertise
 
-### [📅 Moteur de réservation](https://github.com/Eaulmesse/robustReservationEngine.ts)
-**Moteur de réservation haute performance.** *Challenge :* Gérer les conflits de réservation et la complexité des fuseaux horaires mondiaux.
-*Stack :* NestJS, PostgreSQL, Swagger.
-
-
+- **Backend:** NestJS, Node.js, TypeScript 
+- **Legacy & Migration:** PHP / Symfony 
+- **Data:** PostgreSQL, MySQL, Prisma, TypeORM
+- **Automation & AI:** n8n, LangChain, LLM Integration, Real-time Webhooks
+- **DevOps:** Docker, CI/CD 
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## Featured Projects
+
+### [Booking Engine](https://github.com/Eaulmesse/robustReservationEngine.ts)
+**High-performance reservation engine.** *Challenge:* Managing booking conflicts and the complexity of global time zones.
+*Stack:* NestJS, PostgreSQL, Swagger.
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eaulmesse&show_icons=true&theme=radical" alt="Stats de Théo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaulmesse&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eaulmesse&show_icons=true&theme=radical" alt="Théo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaulmesse&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 📫 Me contacter
+## Contact Me
 
-- **Malt :** [Mon profil Freelance](https://www.malt.fr/profile/theoguerin)
-- **LinkedIn :** [Théo Guerin](https://www.linkedin.com/in/guerin-theo/)
-- **Email :** [theo.guerin01120@gmail.com](theo.guerin01120@gmail.com)
-
+- **Malt:** [Freelance Profile](https://www.malt.fr/profile/theoguerin)
+- **LinkedIn:** [Théo Guerin](https://www.linkedin.com/in/guerin-theo/)
+- **Email:** [theo.guerin01120@gmail.com](mailto:theo.guerin01120@gmail.com)
