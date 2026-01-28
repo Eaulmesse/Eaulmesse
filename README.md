@@ -16,7 +16,7 @@ I help companies build high-performance backend solutions and integrate AI at th
 
 ## Featured Projects
 
-### [Booking Engine](https://github.com/Eaulmesse/robustReservationEngine.ts) (Work in Progress)
+### [Nimbus](https://github.com/Eaulmesse/robustReservationEngine.ts) (Work in Progress)
 **High-performance reservation engine.** *Challenge:* Managing booking conflicts and the complexity of global time zones.
 *Stack:* NestJS, PostgreSQL, Swagger.
 
